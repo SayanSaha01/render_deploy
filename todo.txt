@@ -1,0 +1,5 @@
+- if user is signedin on fronted -> valid refresh rtoken to route-> if successful -> @app.get_data-> data in json-> sayan ko bhej denge
+- navbar get_button data (get most recent data)
+- check if signed. if yes not run signin script if not run login -> get_data route
+- better signing way
+- village admin can see village dashboard

@@ -1,0 +1,135 @@
+_id,name,age,sex,marital_status,education,schooling_status,AADHAR_No,has_bank_acc,is_computer_literate,has_SSP,health_prob,has_MNREGA,SHG,occupations,__id
+64003c4f7c15c810664931da,867,87,Male,Married,Completed Class 5th,School,690879654435,True,True,Widow Pension,876,True,False,Animal Husbandry,64003c4c7c15c810664931d7
+64005118e9f71333717cc938,87686786,876,Female,Widowed,Completed Class 5th,College,042342342342,True,True,Widow Pension,oiugyftdf,True,True,Farming on own Land,64005117e9f71333717cc935
+6400589979f5f91452213cdd,Sachin Verma,24,Male,Married,Graduate,,387457455335,True,True,No Pension,No,False,False,Farming on own Land,6400589879f5f91452213cda
+6400594a79f5f91452213ceb,Sampat Bai,21,Female,Married,Completed Class 12th,Not Going,454500526913,False,False,No Pension,NO,False,False,Unskilled Wage Worker,6400594979f5f91452213ce8
+64005a4d79f5f91452213cf8,Kushi Lal,25,Male,Married,Graduate,Not Applicable,780647330572,True,True,No Pension,Spine problem ,False,False,Other Trade & Business,64005a4c79f5f91452213cf5
+64005a5f88a3918c323075bc,Gorishankar,52,Male,Married,Literate,Not Applicable,377354444280,True,False,No Pension,Diabetic,False,False,Other Trade & Business,64005a5e88a3918c323075b9
+64005a5f88a3918c323075bd,Pavitra,50,Female,Married,Literate,Not Applicable,377354444280,False,False,No Pension,-,False,False,,64005a5e88a3918c323075b9
+64005aea88a3918c323075ca,RESHAM BAI,60,Female,Widowed,Completed Class 5th,Not Applicable,967716340466,True,False,Widow Pension,LEG INJURY,True,True,Skilled Wage Worker,64005ae988a3918c323075c7
+64005bdf88a3918c323075d7,Devaki,26,Female,Married,Completed Class 12th,Not Going,0,True,False,No Pension,No,False,False,Farming on own Land,64005bde88a3918c323075d4
+64005c5688a3918c323075e4,Kushi lal,25,Male,Married,Graduate,Not Applicable,078064733057,True,True,No Pension,Bach pain,False,False,Other Trade & Business,64005c5688a3918c323075e1
+64005c8b88a3918c323075f1,Vikram mewada,45,Male,Married,Not Literate,Not Applicable,951599254346,True,False,No Pension,NA,True,False,Farming on own Land,64005c8a88a3918c323075ee
+64005c8b88a3918c323075f2,Chintabai mewada,42,Female,Married,Not Literate,Not Applicable,738000935139,True,False,No Pension,NA,True,False,Farming on own Land,64005c8a88a3918c323075ee
+64005c8b88a3918c323075f3,Abhishek mewada,16,Male,Not Married,Completed Class 10th,School,252251188944,True,True,No Pension,NA,False,False,,64005c8a88a3918c323075ee
+64005c8b88a3918c323075f4,Deepak mewada,23,Male,Not Married,Graduate,College,776132219382,True,True,No Pension,NA,False,False,,64005c8a88a3918c323075ee
+64005cbd88a3918c32307603,krishnpal sisodiya,19,Male,Not Married,Graduate,College,535669024791,True,True,No Pension,none,False,False,Farming on own Land,64005cbc88a3918c32307600
+64005cbd88a3918c32307604,mohanlal Sisodiya,56,Male,Married,Completed Class 5th,Not Applicable,000000000000,True,False,No Pension,none,True,False,Farming on own Land,64005cbc88a3918c32307600
+64005cbd88a3918c32307605,sushila bai,52,Female,Married,Not Literate,Not Applicable,000000000000,True,False,No Pension,none,True,False,Farming on own Land,64005cbc88a3918c32307600
+64005cbd88a3918c32307606,rahul,30,Male,Married,ITI Diploma,Not Applicable,000000000000,True,False,No Pension,none,False,False,Other Trade & Business,64005cbc88a3918c32307600
+64005cbd88a3918c32307607,kapil,21,Male,Not Married,Completed Class 12th,Not Applicable,000000000000,True,False,No Pension,none,False,False,Other Trade & Business,64005cbc88a3918c32307600
+64005cbd88a3918c32307608,rajan ,25,Male,Married,Graduate,Not Applicable,000000000000,True,True,No Pension,none,False,False,Other Trade & Business,64005cbc88a3918c32307600
+64005cbd88a3918c32307609,kiran,26,Female,Married,Graduate,Not Applicable,000000000000,True,False,No Pension,none,False,False,Other Artisian,64005cbc88a3918c32307600
+64005cbd88a3918c3230760a,kirti,22,Female,Married,Graduate,Not Applicable,000000000000,True,False,No Pension,none,False,False,Salaried Employment in Government,64005cbc88a3918c32307600
+64005cbd88a3918c3230760b,sneha,3,Female,Not Married,Other,Not Applicable,000000000000,False,False,No Pension,none,False,False,Other Artisian,64005cbc88a3918c32307600
+64005cbd88a3918c3230760c,yashika,2,Female,Not Married,Other,Not Applicable,000000000000,False,False,No Pension,none,False,False,Other Artisian,64005cbc88a3918c32307600
+64005cf888a3918c3230761a,sukharam mewada,60,Male,Married,Completed Class 5th,Not Going,000000000000,False,False,Other Pension,no,False,False,Farming on own Land,64005cf788a3918c32307617
+64005cf888a3918c3230761b,kallu bai,57,Female,Married,Completed Class 5th,Not Going,000000000001,False,False,Other Pension,no,False,False,,64005cf788a3918c32307617
+64005cf888a3918c3230761c,rakesh mewada,37,Male,Married,Completed Class 5th,Not Going,000000000002,True,False,No Pension,no,False,False,Farming on own Land,64005cf788a3918c32307617
+64005cf888a3918c3230761d,seema mewada,32,Female,Married,Completed Class 5th,Not Going,000000000003,True,False,No Pension,no,False,False,,64005cf788a3918c32307617
+64005cf888a3918c3230761e,kiran mewada,20,Female,Not Married,Graduate,College,000000000004,True,True,No Pension,no,False,False,Skilled Wage Worker,64005cf788a3918c32307617
+64005cf888a3918c3230761f,sohan mewada,16,Male,Not Married,Completed Class 10th,School,000000000005,False,False,No Pension,no,False,False,Skilled Wage Worker,64005cf788a3918c32307617
+64005cf888a3918c32307620,kamlesh mewada,28,Male,Married,Completed Class 10th,School,000000000006,True,False,No Pension,no,False,False,Farming on own Land,64005cf788a3918c32307617
+64005cf888a3918c32307621,kavita mewada,26,Female,Married,Completed Class 8th,School,000000000007,False,False,No Pension,no,False,False,Select,64005cf788a3918c32307617
+64005d9188a3918c3230762e,Makhan Singh,61,Male,Married,Completed Class 5th,Not Applicable,898335458538,True,False,No Pension,No,False,False,Farming on own Land,64005d9188a3918c3230762b
+64005d9188a3918c3230762f,Sampat Bai,55,Female,Married,Not Literate,Not Applicable,675382335937,True,False,No Pension,NO,False,False,Farming on own Land,64005d9188a3918c3230762b
+64005d9188a3918c32307630,Ramesh Singh,40,Male,Married,Completed Class 10th,Not Applicable,000000000000,True,False,No Pension,No,False,False,Farming on own Land,64005d9188a3918c3230762b
+64005e1788a3918c3230763d,Pramod Kumar,30,Male,Married,Graduate,Not Applicable,454071469188,True,True,No Pension,No,False,False,Other Trade & Business,64005e1788a3918c3230763a
+64005e1788a3918c3230763e,Sudhabai,48,Female,Widowed,Completed Class 5th,Not Applicable,959351469105,True,False,Widow Pension,No,False,False,Other Trade & Business,64005e1788a3918c3230763a
+64005e1788a3918c3230763f,Seema,29,Female,Married,Completed Class 12th,Not Applicable,643836245343,True,False,No Pension,No,False,False,Other Trade & Business,64005e1788a3918c3230763a
+64005e1788a3918c32307640,Aaradhya Vishwakumar,9,Female,Not Married,Literate,School,000000000000,False,True,No Pension,No,False,False,Other Trade & Business,64005e1788a3918c3230763a
+64005e1788a3918c32307641,Madhav vishwakumar,7,Male,Not Married,Literate,School,000000000000,False,False,No Pension,No,False,False,Other Trade & Business,64005e1788a3918c3230763a
+64005e1f88a3918c3230764e,Rampal ,9,Male,Not Married,Literate,School,000000000000,False,False,No Pension,NA,False,False,Other Trade & Business,64005e1f88a3918c3230764b
+64005e1f88a3918c3230764f,Devin ,9,Male,Not Married,Literate,School,000000000000,False,False,No Pension,NA,False,False,Other Trade & Business,64005e1f88a3918c3230764b
+64005e1f88a3918c32307650,Ravi,17,Male,Not Married,Completed Class 10th,School,380329518187,True,False,No Pension,NA,False,False,Other Trade & Business,64005e1f88a3918c3230764b
+64005e1f88a3918c32307651,Rakesh,41,Male,Widowed,Completed Class 8th,School,000000000000,True,False,No Pension,NA,False,False,Farming on own Land,64005e1f88a3918c3230764b
+64005e1f88a3918c32307652,Ramprasad,67,Male,Married,Not Literate,Not Applicable,000000000000,True,False,No Pension,Knee Pain,False,False,Farming on own Land,64005e1f88a3918c3230764b
+64005e1f88a3918c32307653,Sorambai,55,Female,Married,Not Literate,Not Applicable,000000000000,False,False,No Pension,NA,False,False,Other Trade & Business,64005e1f88a3918c3230764b
+64005e400385c1006e0b0ac9,Ganapat Mewada,51,Male,Married,Completed Class 8th,Not Going,0,True,False,No Pension,0,False,False,Farming on own Land,64005e3f0385c1006e0b0ac6
+64005e4e0385c1006e0b0ad6,Harinarayan,65,Male,Married,Completed Class 10th,School,579549407889,True,False,Old Age Pension,"Diabeties,Blood Pressure",False,False,Farming on own Land,64005e4d0385c1006e0b0ad3
+64005e4e0385c1006e0b0ad7,Kamal Singh,40,Male,Married,Completed Class 10th,School,565126005478,True,False,No Pension,no,False,False,Farming on own Land,64005e4d0385c1006e0b0ad3
+64005e810385c1006e0b0ae4,RAMESHCHANDRA,49,Male,Married,Completed Class 8th,Not Applicable,801255807739,True,False,No Pension,ENLARGED SPLEEN,False,True,Farming on own Land,64005e800385c1006e0b0ae1
+64005eac0385c1006e0b0af1,Manohar Singh,52,Male,Married,Completed Class 10th,Not Applicable,875013720696,True,False,No Pension,0,False,False,Other Trade & Business,64005eab0385c1006e0b0aee
+64005eac0385c1006e0b0af2,Ashish,23,Male,Not Married,Completed Class 12th,Not Going,269216888821,True,True,No Pension,0,False,False,Other Trade & Business,64005eab0385c1006e0b0aee
+64005ecf0385c1006e0b0aff,Sorambai,45,Female,Married,Not Literate,Not Applicable,0,True,True,Other Pension,Na,False,True,,64005ece0385c1006e0b0afc
+6400607a88a3918c32307662,NARAYAN SINGH,65,Male,Married,Literate,Not Applicable,959824831866,True,False,Old Age Pension,HEART PROBLEM,False,True,Farming on own Land,6400607988a3918c3230765f
+6400610e88a3918c3230766f,Suresh Kumar,36,Male,Married,Completed Class 10th,Not Going,931933759634,True,False,No Pension,None,True,False,Animal Husbandry,6400610d88a3918c3230766c
+6400610e88a3918c32307670,Kamla ,58,Female,Married,Not Literate,Not Going,870643113101,True,False,Widow Pension,Breathing problems during excessive work or while sleeping,True,False,Animal Husbandry,6400610d88a3918c3230766c
+6400610e88a3918c32307671,Sandhya,26,Female,Married,Completed Class 8th,Not Going,908421736436,True,False,No Pension,None,True,False,Animal Husbandry,6400610d88a3918c3230766c
+6400612288a3918c3230767f,Shri Bhagwat Singh ,55,Male,Married,Not Literate,Not Going,0,True,False,No Pension,Heart,False,False,Farming on own Land,6400612188a3918c3230767c
+6400614b88a3918c3230768c,Vinod,31,Male,Married,Completed Class 10th,Not Applicable,661710569955,True,False,No Pension,0,False,False,Other Trade & Business,6400614a88a3918c32307689
+6400614b88a3918c3230768d,Pinky,30,Female,Married,Completed Class 10th,Not Applicable,661710569955,True,False,No Pension,0,False,False,Select,6400614a88a3918c32307689
+6400616788a3918c3230769a,Radhe shyam,23,Male,Not Married,Completed Class 8th,Not Going,0,True,False,No Pension,0,False,False,Farming on own Land,6400616688a3918c32307697
+6400618388a3918c323076a7,kavita,30,Female,Married,Completed Class 5th,Not Going,000000000002,True,False,No Pension,0,False,False,Farming on own Land,6400618288a3918c323076a4
+6400627b88a3918c323076b6,Gyan singh,39,Male,Married,Completed Class 10th,Not Applicable,435161018031,True,False,No Pension,NA,True,False,Skilled Wage Worker,6400627a88a3918c323076b3
+6400627b88a3918c323076b7,Chintha ,36,Female,Married,Completed Class 10th,Not Applicable,000000000000,False,False,No Pension,NA,False,False,,6400627a88a3918c323076b3
+6400627b88a3918c323076b8,Anuj Malviya,17,Male,Not Married,Completed Class 8th,School,660230350066,False,False,No Pension,NA,False,False,,6400627a88a3918c323076b3
+6400627b88a3918c323076b9,Diksha Malviya,15,Female,Not Married,Completed Class 8th,School,670415174560,False,False,No Pension,NA,False,False,,6400627a88a3918c323076b3
+6400627b88a3918c323076ba,Arpita Malviya,13,Female,Not Married,Completed Class 5th,School,864378687213,False,False,No Pension,NA,False,False,,6400627a88a3918c323076b3
+640062be88a3918c323076c8,HARIOM VERMA,23,Male,Married,Graduate,Not Going,582905012820,True,True,No Pension,NONE,False,True,Salaried Employment in Private Sector,640062bd88a3918c323076c5
+6400633788a3918c323076d5,bharti,17,Female,Not Married,Completed Class 10th,School,971745907681,True,True,No Pension,none,False,False,Other Artisian,6400633688a3918c323076d2
+6400633788a3918c323076d6,ramesh,44,Male,Married,Completed Class 12th,Not Applicable,000000000000,True,False,No Pension,none,False,False,Farming on own Land,6400633688a3918c323076d2
+6400633788a3918c323076d7,krishna bai,42,Female,Married,Not Literate,Not Applicable,000000000000,True,False,No Pension,Asthma ,False,False,Farming on own Land,6400633688a3918c323076d2
+6400633788a3918c323076d8,Madhuri,22,Female,Married,Completed Class 8th,Not Applicable,000000000000,True,False,No Pension,none,False,False,Other Artisian,6400633688a3918c323076d2
+6400633788a3918c323076d9,Abhishek,24,Male,Married,Completed Class 10th,Not Applicable,000000000000,True,False,No Pension,none,True,False,Salaried Employment in Private Sector,6400633688a3918c323076d2
+6400633788a3918c323076da,Mangilal,65,Male,Other,Completed Class 10th,Not Applicable,000000000000,True,False,Old Age Pension,none,False,False,Farming on own Land,6400633688a3918c323076d2
+6400633788a3918c323076db,Mayur,1,Male,Not Married,Not Literate,Not Applicable,000000000000,False,False,No Pension,none,False,False,Other Artisian,6400633688a3918c323076d2
+640063b788a3918c323076ea,Manoj,48,Male,Married,Completed Class 10th,College,0,True,False,No Pension,No,False,False,Salaried Employment in Private Sector,640063b788a3918c323076e7
+6400648088a3918c323076f7,Kamal Kishor,57,Male,Married,Completed Class 12th,Not Applicable,358274210903,True,False,No Pension,No,False,False,Farming on own Land,6400647f88a3918c323076f4
+6400648088a3918c323076f8,Shahsi Verma,52,Female,Married,Completed Class 10th,Not Applicable,000000000000,True,False,No Pension,No,False,False,Farming on own Land,6400647f88a3918c323076f4
+6400648788a3918c32307705,Ramchandra Verma,65,Male,Married,Not Literate,Not Applicable,561131756543,True,False,No Pension,No,False,False,Farming on own Land,6400648688a3918c32307702
+6400648788a3918c32307706,Kantabai Verma,60,Female,Married,Not Literate,Not Applicable,321958544566,True,False,No Pension,No,False,False,Other Trade & Business,6400648688a3918c32307702
+6400648788a3918c32307707,Lakshminarayan Verma,36,Male,Married,Graduate,Not Applicable,961821817682,True,True,No Pension,No,False,False,Other Trade & Business,6400648688a3918c32307702
+6400648788a3918c32307708,Kavita Verma,34,Female,Married,Completed Class 8th,,763645882150,True,False,No Pension,No,False,False,Skilled Wage Worker,6400648688a3918c32307702
+6400648788a3918c32307709,Anshul Verma,15,Male,Not Married,Completed Class 8th,School,528731437034,True,True,No Pension,No,False,False,Skilled Wage Worker,6400648688a3918c32307702
+6400648788a3918c3230770a,Babita Verma,10,Female,Not Married,Completed Class 5th,,770083101530,False,False,No Pension,No,False,False,Skilled Wage Worker,6400648688a3918c32307702
+6400651588a3918c32307717,Hari Narayan Verma,62,Male,Married,Completed Class 10th,Not Applicable,877590606555,True,False,Old Age Pension,no,False,False,Farming on own Land,6400651488a3918c32307714
+6400651588a3918c32307718,Kanta Bai,55,Female,Married,Completed Class 5th,Not Applicable,808500605164,True,False,No Pension,no,False,False,Farming on own Land,6400651488a3918c32307714
+6400651588a3918c32307719,Kesar Bai,90,Female,Widowed,Not Literate,Not Applicable,488743823071,True,False,Old Age Pension,no,False,False,Select,6400651488a3918c32307714
+6400651588a3918c3230771a,Badri Prasad,32,Male,Married,Graduate,Not Applicable,451718684050,True,True,No Pension,no,False,False,Salaried Employment in Private Sector,6400651488a3918c32307714
+6400651588a3918c3230771b,Vimlesh Bai ,30,Female,Married,Completed Class 8th,Not Applicable,855365536913,True,False,No Pension,no,False,False,Farming on own Land,6400651488a3918c32307714
+6400651588a3918c3230771c,Jayant Verma,10,Male,Not Married,Literate,School,728303143372,False,False,No Pension,no,False,False,Select,6400651488a3918c32307714
+6400651588a3918c3230771d,Nayan Verma,4,Male,Not Married,Literate,School,712944239828,False,False,No Pension,no,False,False,Select,6400651488a3918c32307714
+640065160385c1006e0b0b0c,Naresh Lakhaya,46,Male,Married,Post Graduate/Professional,Not Applicable,926609412627,True,False,No Pension,0,False,False,Salaried Employment in Government,640065150385c1006e0b0b09
+640065160385c1006e0b0b0d,Ramkunvar,45,Female,,Other,Not Applicable,419218242742,False,False,Other Pension,Liver problem,False,False,,640065150385c1006e0b0b09
+6400657e0385c1006e0b0b1a,Gopilal,63,Male,Married,Completed Class 5th,Not Applicable,699635471882,True,False,Old Age Pension,Diabetes,True,False,Unskilled Wage Worker,6400657d0385c1006e0b0b17
+6400665d0385c1006e0b0b27,Radheshyam verma,48,Male,Married,Completed Class 5th,Not Applicable,925533502927,True,False,No Pension,NA,False,False,Farming on own Land,6400665d0385c1006e0b0b24
+6400665d0385c1006e0b0b28,sachin verma,22,Male,Married,Completed Class 8th,Not Applicable,922185173809,True,False,No Pension,NA,False,False,Farming on own Land,6400665d0385c1006e0b0b24
+6400665d0385c1006e0b0b29,Krishna verma,45,,Married,Not Literate,Not Applicable,234580845818,True,False,No Pension,NA,False,False,Farming on own Land,6400665d0385c1006e0b0b24
+6400669f0385c1006e0b0b36,Devi lal,79,Male,Married,Completed Class 5th,Not Applicable,282596744850,True,False,No Pension,No,False,False,Unskilled Wage Worker,6400669f0385c1006e0b0b33
+6400669f0385c1006e0b0b37,Indarkala Bai,73,Female,Married,Not Literate,Not Applicable,409844186559,True,False,No Pension,No,False,False,Unskilled Wage Worker,6400669f0385c1006e0b0b33
+640067150385c1006e0b0b44,Vinod Kumar,26,Male,Married,Graduate,Not Going,426305185678,True,True,No Pension,None,False,False,Skilled Wage Worker,640067150385c1006e0b0b41
+640067150385c1006e0b0b45,Sapna Bai,23,Female,Married,Completed Class 5th,Not Going,944993963393,True,False,No Pension,None,False,False,Other Artisian,640067150385c1006e0b0b41
+640067150385c1006e0b0b46,Tanvi Kumari,3,Female,Not Married,Not Literate,Not Going,285885171307,False,False,No Pension,None,False,False,,640067150385c1006e0b0b41
+640067e00385c1006e0b0b53,gangabai,62,Female,Married,Not Literate,Not Going,574995042176,True,False,Widow Pension,0,False,False,Farming on own Land,640067df0385c1006e0b0b50
+640067f60385c1006e0b0b60,Swaram Bai,55,Female,Married,Completed Class 5th,Not Applicable,000000000000,False,False,No Pension,NO,False,False,Unskilled Wage Worker,640067f60385c1006e0b0b5d
+640067f60385c1006e0b0b61,Gopal Singh,57,Male,Married,Completed Class 5th,Not Applicable,000000000000,True,False,Old Age Pension,NO,False,False,Unskilled Wage Worker,640067f60385c1006e0b0b5d
+640067f60385c1006e0b0b62,Nisha Bai,23,Female,Married,Completed Class 5th,Not Going,000000000000,False,False,No Pension,NO,False,False,Unskilled Wage Worker,640067f60385c1006e0b0b5d
+6400689b0385c1006e0b0b6f,JITIN VERMA,29,Male,Not Married,Completed Class 12th,Not Applicable,000000000000,True,False,Disability Pension,NONE,True,True,Farming on own Land,6400689a0385c1006e0b0b6c
+640068b70385c1006e0b0b7c,Sugan Bai,47,Female,Widowed,Not Literate,Not Applicable,627391867510,True,False,Widow Pension,None,False,False,Other Artisian,640068b60385c1006e0b0b79
+6400692d0385c1006e0b0b89,Pushpa Mewada,24,Female,Married,Completed Class 10th,Not Applicable,794372779127,True,False,No Pension,NA,False,False,Other Artisian,6400692c0385c1006e0b0b86
+6400692d0385c1006e0b0b8a,Anil Kumar,30,Male,Married,Completed Class 8th,Not Applicable,309951756205,True,False,No Pension,NA,False,False,Salaried Employment in Government,6400692c0385c1006e0b0b86
+6400692d0385c1006e0b0b8b,Rishabh,2,Male,Not Married,Other,Not Going,000000000000,False,False,No Pension,NA,False,False,Other Artisian,6400692c0385c1006e0b0b86
+6400692d0385c1006e0b0b8c,Nanhi Bai,60,Female,Married,Not Literate,Not Applicable,000000000000,False,False,Old Age Pension,BP,False,False,Other Artisian,6400692c0385c1006e0b0b86
+640069570385c1006e0b0b99,dolat singh,57,Male,Married,Completed Class 12th,Not Applicable,000000000000,True,True,No Pension,NO,False,False,Salaried Employment in Government,640069560385c1006e0b0b96
+640069570385c1006e0b0b9a,Pramod kumar,29,Male,Not Married,ITI Diploma,Not Applicable,373883919056,True,True,No Pension,no,False,True,Salaried Employment in Private Sector,640069560385c1006e0b0b96
+640069570385c1006e0b0b9b,Reena,32,Female,Married,Completed Class 8th,Not Applicable,000000000000,True,False,No Pension,no,False,False,Other Artisian,640069560385c1006e0b0b96
+640069570385c1006e0b0b9c,krish,5,Male,Not Married,Literate,School,000000000000,False,False,No Pension,no,False,False,Other Artisian,640069560385c1006e0b0b96
+640069570385c1006e0b0b9d,rajendra,33,Male,Married,Graduate,Not Applicable,000000000000,True,True,No Pension,no,False,True,Salaried Employment in Government,640069560385c1006e0b0b96
+640069570385c1006e0b0b9e,anil ,30,Male,Married,Post Graduate/Professional,Not Applicable,000000000000,True,True,No Pension,no,True,True,Salaried Employment in Government,640069560385c1006e0b0b96
+640069570385c1006e0b0b9f,sunita,28,Female,Married,Completed Class 12th,Not Applicable,000000000000,True,True,No Pension,no,False,False,Other Artisian,640069560385c1006e0b0b96
+640069570385c1006e0b0ba0,rajkuwar,53,Female,Married,Not Literate,,000000000000,True,False,No Pension,no,False,False,Other Artisian,640069560385c1006e0b0b96
+640069e70385c1006e0b0bad,Kavita,22,Female,Divorced/Separated,Graduate,College,746645740120,True,True,No Pension,na,False,False,Other Artisian,640069e70385c1006e0b0baa
+640069e70385c1006e0b0bae,Mukesh Kumar,45,Male,Married,Literate,Not Going,000000000000,True,False,No Pension,na,False,False,Farming on own Land,640069e70385c1006e0b0baa
+640069e70385c1006e0b0baf,Meva Bai,41,Female,Married,Not Literate,Not Going,530136868558,True,False,No Pension,na,False,False,Other Artisian,640069e70385c1006e0b0baa
+64006a420385c1006e0b0bbc,Rajendra Sisodhia,26,Male,Married,Graduate,Not Going,684063842107,True,True,No Pension,None,False,False,Other Trade & Business,64006a410385c1006e0b0bb9
+64006a420385c1006e0b0bbd,Mohan Sisodia,55,Male,Married,Completed Class 8th,,000000000000,True,False,No Pension,Nonw,False,False,Other Trade & Business,64006a410385c1006e0b0bb9
+64006b7c69f677e67de68128,SUGANDH,38,Female,Married,Not Literate,Not Going,000000000002,True,False,No Pension,0,True,False,Unskilled Wage Worker,64006b7b69f677e67de68125
+64006b7c69f677e67de68129,anuradha,19,Female,Not Married,Completed Class 12th,College,000000000002,True,True,No Pension,0,False,False,Other Artisian,64006b7b69f677e67de68125
+64006be469f677e67de68136,Nepal Singh,32,Male,Married,Completed Class 10th,Not Applicable,613288939081,True,True,No Pension,NA,False,False,Unskilled Wage Worker,64006be369f677e67de68133
+64006be469f677e67de68137,Reena Singh,27,Female,Married,Completed Class 12th,Not Applicable,000000000000,True,False,No Pension,NA,False,False,Other Artisian,64006be369f677e67de68133
+64006be469f677e67de68138,Nancy Singh,3,Female,Not Married,Other,School,000000000000,False,False,No Pension,NA,False,False,Other Artisian,64006be369f677e67de68133
+64006be469f677e67de68139,Niyati Singh,1,Female,Not Married,Other,Not Going,000000000000,False,False,No Pension,NA,False,False,Other Artisian,64006be369f677e67de68133
+640080e0e01648f2ac1852c8,Bharti Bai,27,Female,,Completed Class 10th,Not Applicable,514484707850,True,False,No Pension,NA,False,False,Other Artisian,640080dfe01648f2ac1852c5
+640080e0e01648f2ac1852c9,Devraj Mewada,26,Male,,Completed Class 12th,Not Applicable,000000000000,True,True,No Pension,NA,False,False,Salaried Employment in Private Sector,640080dfe01648f2ac1852c5
+640082dee01648f2ac1852d6,Ram Swaroop,29,Male,Married,Completed Class 12th,Not Applicable,514484707857,True,True,Disability Pension,NA,True,False,Farming on own Land,640082dde01648f2ac1852d3
