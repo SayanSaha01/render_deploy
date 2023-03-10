@@ -5,3 +5,4 @@ dash_bootstrap_components
 dash-extensions
 wordcloud
 requests
+python-dotenv
