@@ -2,8 +2,8 @@ import os
 import json
 import requests
 
-# from dotenv import load_dotenv
-# load_dotenv()
+from dotenv import load_dotenv
+load_dotenv()
 
 import pandas as pd
 
@@ -28,7 +28,7 @@ def fetch_data_fromdb(village_name):
     return response.json()
 
 
-data = fetch_data_fromdb("Sehore") # ["Aastha", "Sehore", "string"]
+data = fetch_data_fromdb("Lasudiya_Khas") # ["Aastha", "Sehore", "string"]
 data_json = json.dumps(data['data'])
 df = pd.DataFrame(data["data"]["fam_info"])
 

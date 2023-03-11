@@ -4,7 +4,7 @@ from functools import lru_cache
 
 from .datafetch import fetch_data_fromdb
 
-VILLAGE_NAMES = ["Aastha", "Sehore"]
+VILLAGE_NAMES = ["Aastha", "Sehore","Lasudiya_Khas"]
 TABLE_NAMES = ["respondent_prof","gen_ho_info","fam_info","mig_status","govt_schemes","water_source",
 "source_of_energy","land_holding_info","agri_inputs","agri_products","livestock_nos","major_problems"]
 
